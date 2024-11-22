@@ -131,6 +131,7 @@ body {
 	}
 }
 
+
 /* button */
 
 #btn2 button{
@@ -268,3 +269,8 @@ i{
 	margin-left: 120px ;
 }
 
+@media (max-width: 480px){
+	.logo{
+		margin-left: 0px;
+	}
+}
